@@ -1,5 +1,14 @@
 ## About Me
 Recent graduate with a solid foundation in Java, web development, software methodologies, and database management. My commitment to continuous learning, hands-on projects, and collaborative problem-solving instills confidence in adapting swiftly to emerging technologies for meaningful contributions to real-world software development.
+
+# 🛠️ Skills
+
+- **Programming Languages:** Java, JavaScript, C#
+- **Web Development:** HTML, CSS, ReactJs, Bootstrap
+- **Back-End:** SpringBoot, NodeJs, .NET CORE, .NET MVC
+- **Database:** MySQL,SQL
+- **Software Methodologies:** Agile, Scrum, Testing
+- **Tools:** Git, GitHub
 # 🚀 Projects
 
 ## Project 1: RentFlex 🏠
