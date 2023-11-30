@@ -1,7 +1,11 @@
-![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/7a95a73f-eff6-4cdd-aed5-9f5b04735609)# Khushee's Portfolio
+# Khushee's Portfolio
+## About Me
 
-Welcome to my GitHub portfolio! This repository showcases my projects and contributions.
-
+I have recently graduated with a robust foundation in Java, web development, software methodologies, and
+database management. My unwavering commitment to continuous learning, coupled with hands-on involvement
+in personal projects, and an ardent enthusiasm for tackling challenges collaboratively, instills in me the confidence
+to swiftly adapt to emerging technologies and bring meaningful contributions to real-world software development
+endeavors.
 ## Projects
 
 ### Project 1: RentFlex: Flexible and User-friendly House Rentals
@@ -19,13 +23,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and contri
      ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/74b274b9-2b5c-4d06-8ac9-a3a1862c0d5f)
 
 
-## About Me
 
-I have recently graduated with a robust foundation in Java, web development, software methodologies, and
-database management. My unwavering commitment to continuous learning, coupled with hands-on involvement
-in personal projects, and an ardent enthusiasm for tackling challenges collaboratively, instills in me the confidence
-to swiftly adapt to emerging technologies and bring meaningful contributions to real-world software development
-endeavors.
 ## Contact
 
 - Email: patilkhushee@gmail.com
