@@ -16,6 +16,7 @@ Recent graduate with a solid foundation in Java, web development, software metho
 
 **Technologies:**
 - *Framework:* .Net Mvc
+  
 **Demo Links:** ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/74b274b9-2b5c-4d06-8ac9-a3a1862c0d5f)
      ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/78231fb7-7dff-4d3c-a1f9-66bfb0ee0f88)
      ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/f265f809-ae73-4ee0-a2f4-ed9cd54e8ed9)
