@@ -20,6 +20,12 @@ endeavors.
    - Technologies:- .Net Mvc Framework.
    - Screenshots or demo links:-
      ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/74b274b9-2b5c-4d06-8ac9-a3a1862c0d5f)
+     ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/78231fb7-7dff-4d3c-a1f9-66bfb0ee0f88)
+     ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/f265f809-ae73-4ee0-a2f4-ed9cd54e8ed9)
+     ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/51295ea4-d1a1-4e5d-9d5d-e4b07b67e67b)
+     ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/93ff88f4-b04d-428d-b0a7-0223aefae313)
+
+
 
 ## Contact
 
