@@ -1,4 +1,3 @@
-# Khushee's Portfolio
 ## About Me
 
 I have recently graduated with a robust foundation in Java, web development, software methodologies, and
@@ -21,8 +20,6 @@ endeavors.
    - Technologies:- .Net Mvc Framework.
    - Screenshots or demo links:-
      ![image](https://github.com/PatilKhushee/PatilKhushee/assets/131463332/74b274b9-2b5c-4d06-8ac9-a3a1862c0d5f)
-
-
 
 ## Contact
 
